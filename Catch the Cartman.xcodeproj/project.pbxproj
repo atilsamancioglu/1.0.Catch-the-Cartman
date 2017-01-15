@@ -12,6 +12,7 @@
 		FC1953BA1DFB0BB200C13EBC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1953B81DFB0BB200C13EBC /* Main.storyboard */; };
 		FC1953BC1DFB0BB200C13EBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC1953BB1DFB0BB200C13EBC /* Assets.xcassets */; };
 		FC1953BF1DFB0BB200C13EBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1953BD1DFB0BB200C13EBC /* LaunchScreen.storyboard */; };
+		FC1953C71DFB0C6E00C13EBC /* Eric_cartman.png in Resources */ = {isa = PBXBuildFile; fileRef = FC1953C61DFB0C6E00C13EBC /* Eric_cartman.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FC1953BB1DFB0BB200C13EBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC1953BE1DFB0BB200C13EBC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC1953C01DFB0BB200C13EBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC1953C61DFB0C6E00C13EBC /* Eric_cartman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eric_cartman.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		FC1953B31DFB0BB200C13EBC /* Catch the Cartman */ = {
 			isa = PBXGroup;
 			children = (
+				FC1953C61DFB0C6E00C13EBC /* Eric_cartman.png */,
 				FC1953B41DFB0BB200C13EBC /* AppDelegate.swift */,
 				FC1953B61DFB0BB200C13EBC /* ViewController.swift */,
 				FC1953B81DFB0BB200C13EBC /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				FC1953BF1DFB0BB200C13EBC /* LaunchScreen.storyboard in Resources */,
 				FC1953BC1DFB0BB200C13EBC /* Assets.xcassets in Resources */,
 				FC1953BA1DFB0BB200C13EBC /* Main.storyboard in Resources */,
+				FC1953C71DFB0C6E00C13EBC /* Eric_cartman.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
